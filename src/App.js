@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT Now
+          ZEIT Change 2
         </a>
         !
       </h2>
